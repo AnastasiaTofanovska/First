@@ -1,0 +1,342 @@
+body{
+    background-color: rgb(228, 236, 240);
+    margin: 0;
+    padding: 0;
+}
+
+
+
+img{
+    width: 1449px;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+.picture{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    color: rgb(38, 74, 97);
+    font-size: 23px;
+    border: 5px solid rgb(143, 161, 174);
+}
+.menu{
+    background-color: rgb(22, 56, 98);
+    width: 1449px;
+    height: 50px;
+    position: absolute ;
+    top: 0;
+    margin: 0%;
+    padding: 0%;
+
+}
+.shadow{
+    background-color: rgb(216, 216, 220);
+    width: 1449px;
+    height: 150px;
+    position: absolute;
+    top: 68%;
+    box-shadow: 5px -5px 22px 0px #303c42, 
+    0px 10px 28px 0px #6f7678;
+    font-family:  'Courier New';
+    font-size: 45px;
+    color: #303c42;
+}
+.text{
+font-family: 'Courier New';
+font-size: 20px;
+}
+.Atour{
+    position: absolute;
+    top: 0%;
+    left: 1%;
+    width: 70px;
+    height: 55px;
+    border: 1px solid white;
+}
+.Tours{
+    text-align: center;
+    border-radius: 10px;
+}
+button{
+    width: 75px;
+    height: 30px;
+    background-color: #a6c0c5;
+    margin: 1%;
+}
+button :hover{
+    background-color: #a4adaf;
+    color: rgb(229, 239, 245);
+}
+.regestration{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute !important;
+    top: 20%;
+    right: 25%;
+    font-size: x-large;
+}
+.fon{
+    background-color: rgb(220, 241, 255);
+    color: rgb(4, 39, 69);
+}
+.first-input{
+    position: absolute;
+    top: 28%;
+    right: 25%;
+    width: 190px;
+    height: 25px;
+}
+.second-input{
+    position: absolute;
+    top: 35%;
+    right: 25%;
+    width: 190px;
+    height: 25px;
+}
+.third-input{
+    position: absolute;
+    top: 45%;
+    right: 25%;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 132, 0);
+}
+.fona{
+    background-color: rgb(195, 210, 227);
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+    right: 18%;
+    border: 2px solid #5f686a;
+}
+.sun{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 90%;
+    right: 50%;
+}
+.popular{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    position: absolute;
+    top: 107%;
+    left: 38%;
+    color: #314853;
+    
+}
+.recommendations{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 123%;
+    left: 5%;
+}
+.recommendations1{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 123%;
+    left: 28%;
+
+}
+.recommendations2{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 123%;
+    left: 51%;
+}
+.recommendations3{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 123%;
+    left: 74%;
+}
+.recommendations4{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 174%;
+    left: 5%;
+}
+.recommendations5{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 174%;
+    left: 28%;
+}
+.recommendations6{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 174%;
+    left: 51%;
+}
+.recommendations7{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 174%;
+    left: 74%;
+}
+.recommendations8{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 225%;
+    left: 5%;
+}
+.recommendations9{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 225%;
+    left: 28%;
+}
+.recommendations10{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 225%;
+}
+.recommendations11{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 225%;
+    left: 51%;
+}
+.recommendations12{
+    border: 3px solid #303c42;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 225%;
+    left: 74%;
+}
+img{
+    border-radius: 15px;
+}
+input{
+    border-radius: 15px;
+}
+
+.footer{
+    position: absolute;
+    top: 290%;
+    background-color: #a6c0c5;
+    width: 1450px;
+    height: 300px;
+  margin: 0;
+  padding: 0;
+  box-shadow: 5px 5px 5px 20px #6b818b;
+}
+.texting{
+position: absolute;
+left: 21%;
+bottom: 38%;
+color: #1b282e;
+
+
+}
+.href{
+    color: #314853;
+    text-decoration: none;
+}
+.texting1{
+    position: absolute;
+    left: 38%;
+    bottom: 38%;
+    color: #18242a;
+}
+.texting2{
+    position: absolute;
+    left: 5%;
+    bottom: 38%;
+    color: #162127;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(255, 136, 0);
+    border-radius: 10px;
+}
+.texting3{
+    position: absolute;
+    left: 53%;
+    bottom: 38%;
+    color: #162127;
+}
+.texting4{
+    position: absolute;
+    right: 6%;
+    bottom: 35%;
+    color: #162127;
+}
+.address{
+    position: absolute;
+    right: 24%;
+    top: 95%;
+    color: #162127;
+    border: 0px;
+    width: 300px;
+    height: 30px;
+}
+.sing{
+    position: absolute;
+    right: 13%;
+top: 92%;
+background-color: rgb(255, 136, 0);
+border-radius: 15px;
+height: 33px;
+}
+.phoneNumber{
+    position: absolute;
+    top: 85%;
+    color: #5c6d72;
+    left: 6%;
+    
+}
+.link{
+    color: #5f686a;
+}
+.more{
+  
+    top: 269%;
+    left: 40%;
+    width: 270px;
+    height: 50px;
+    background-color: rgb(187, 208, 232);
+    font-size: larger;
+    border-radius: 10px;
+}
+.more :hover{
+  transform: scale(1 1);
+  background-color: #7bb3c3;
+}
+.more1{
+    position: absolute;
+    top: 269%;
+    left: 40%;
+    width: 270px;
+    height: 50px;
+    background-color: rgb(187, 208, 232);
+    font-size: larger;
+    border-radius: 10px;
+}
