@@ -157,7 +157,7 @@ button :hover{
     width: 300px;
     height: 300px;
     top: 123%;
-    left: 74%;
+    right: 5%;
 }
 .recommendations4{
     border: 3px solid #303c42;
@@ -189,7 +189,7 @@ button :hover{
     width: 300px;
     height: 300px;
     top: 174%;
-    left: 74%;
+    right: 5%;
 }
 .recommendations8{
     border: 3px solid #303c42;
@@ -228,7 +228,7 @@ button :hover{
     width: 300px;
     height: 300px;
     top: 225%;
-    left: 74%;
+    right: 5%;
 }
 img{
     border-radius: 15px;
@@ -321,7 +321,6 @@ height: 33px;
     top: 269%;
     left: 40%;
     width: 270px;
-    height: 50px;
     background-color: rgb(187, 208, 232);
     font-size: larger;
     border-radius: 10px;
